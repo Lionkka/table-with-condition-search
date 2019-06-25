@@ -1,0 +1,15 @@
+.criteria-search-root {
+  padding: 2px 0px;
+  display: flex;
+  align-items: center;
+  width: 100% ;
+
+  .search-input{
+    width: 100%;
+  }
+
+  input {
+    margin-left: 8px;
+    width: 100%;
+  }
+}
